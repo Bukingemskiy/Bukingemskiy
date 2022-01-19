@@ -10,7 +10,7 @@
 - 🤝 Открыт новым знакомствам;
 - ❤️‍🔥 Люблю ⚽ футбол, 🎸 панк-рок ... ну и 👩‍🦱 жену.
 
-👨‍💻 Вот мой стек:
+💼 Вот мой стек:
 <br>
 
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB199)

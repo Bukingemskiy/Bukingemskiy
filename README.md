@@ -29,3 +29,11 @@
 ![](https://img.shields.io/badge/-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB199)
 
 ---
+🥅 А это мои соцсети:
+<br>
+
+![](https://img.shields.io/badge/-VK-informational?style=flat&logo=vk&logoColor=white&color=4AB199)
+![](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=4AB199)
+![](https://img.shields.io/badge/-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=4AB199)
+
+---

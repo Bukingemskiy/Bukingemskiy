@@ -32,8 +32,8 @@
 🥅 А это мои соцсети:
 <br>
 
-![](https://img.shields.io/badge/-VK-informational?style=flat&logo=vk&logoColor=white&color=4AB199)
-![](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=4AB199)
-![](https://img.shields.io/badge/-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=4AB199)
+[![VKontakte](https://img.shields.io/badge/-VKontakte-informational?style=flat&logo=vk&logoColor=white&color=4AB199)](https://vk.com/chekentos)
+[![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=4AB199)](https://www.instagram.com/mistertoxicofficial)
+[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=4AB199)](https://telegram.me/Bukingemskiy_oficial)
 
 ---

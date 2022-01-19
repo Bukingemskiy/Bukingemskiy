@@ -1,8 +1,5 @@
 ## Привет! 👋
-
 ## <--- Меня зовут Влад ☻
-<br>
-
 <br>
 
 - 🔭 I’m currently working on ...
@@ -22,6 +19,7 @@
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=4AB199)
 ![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB199)
 ![](https://img.shields.io/badge/-PM2-informational?style=flat&logo=pm2&logoColor=white&color=4AB199)
+
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB199)
 ![](https://img.shields.io/badge/-Express-informational?style=flat&logo=express&logoColor=white&color=4AB199)
 ![](https://img.shields.io/badge/-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB199)

@@ -9,7 +9,7 @@
 - ⚡ How to reach me: ...
 - 😄 Pronouns: ...
 
-🔍 Вот мой стек:
+👨‍💻 Вот мой стек:
 <br>
 
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB199)

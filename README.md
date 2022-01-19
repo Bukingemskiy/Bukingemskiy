@@ -37,3 +37,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=4AB199)](https://telegram.me/Bukingemskiy_oficial)
 
 ---
+📊 И немного статистики:
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukingemskiy)](https://github.com/anuraghazra/github-readme-stats)
